@@ -1,0 +1,19 @@
+.css-16lloyr-MuiBottomNavigation-root {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    height: 56px;
+    background-color: #dde1e7 !important;
+}
+.css-de1c49 {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    height: 56px;
+    background-color: #dde1e7 !important;
+}

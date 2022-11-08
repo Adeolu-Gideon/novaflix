@@ -1,0 +1,19 @@
+.latest{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.bgimage{
+    /* background-image: url('../../assets/bgimage.jpg');
+    background-size: cover; */
+    background-color: #dde1e7;
+    min-height: 300px;
+    height: calc(100vh / 2.5);
+    
+}
+@media (max-width: 500px) {
+    .bgimage >h3 {
+       font-size: 1.7rem !important;
+       line-height: 1.3;
+    }
+}

@@ -1,0 +1,6 @@
+.tvseries {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 70px;
+    justify-content: space-evenly;
+}
